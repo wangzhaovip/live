@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wangzhao/wangzhaovip/live/Live_Release_1.0.6_78_app.ipa</string>
+                    <string>https://raw.githubusercontent.com/wangzhaovip/live/main/Live_Release_1.0.6_78_app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
