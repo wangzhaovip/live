@@ -1,1 +1,3 @@
 # live
+.ipa
+.plist
